@@ -8,3 +8,5 @@ El código es replicado del paper https://www.frontiersin.org/articles/10.3389/f
 El reporte es inspirado en el papaer https://dr.lib.iastate.edu/server/api/core/bitstreams/b92666b0-3785-4a01-80e1-439149c292c6/content
 
 Para correr el código recomiendo utilizar Google Colab, con 50 épocas el código tomó 33 minutos en ejecutarse.
+
+Link del código en Colab (Los datos requeridos se encuentran en la carpeta de código): https://colab.research.google.com/drive/103FHLSsCm-25NeeqvSfBajsb6pFA3J0J?usp=sharing
